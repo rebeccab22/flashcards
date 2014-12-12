@@ -1,0 +1,649 @@
+{ "_id" : "2365e8vs33QuQ4vhx", "done" : false, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "mverbs" ], "text" : "marcharse", "timestamp" : 1416777306972, "translate" : "to leave,to go away,to depart" }
+{ "_id" : "2tsfJ9grsk2TN8Ceu", "done" : false, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "rverbs" ], "text" : "reunirse", "timestamp" : 1416722696985, "translate" : "to get together, to gather, to join" }
+{ "_id" : "3aX8riudP9YqaTHjR", "done" : false, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "rverbs" ], "text" : "regar", "timestamp" : 1416721335451, "translate" : "to water, to irrigate" }
+{ "_id" : "5WBc74gNHKtvLTg6A", "done" : false, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "tverbs" ], "text" : "tañer", "timestamp" : 1416776680367, "translate" : "to ring,to " }
+{ "_id" : "62e9vRsLrTCafit4n", "done" : false, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "pverbs" ], "text" : "preferir", "timestamp" : 1416720968626, "translate" : "to prefer" }
+{ "text" : "eterno", "translate" : "eternal", "list_id" : "ipyjFrzuC2gd3ceeD", "done" : false, "timestamp" : 1417689158349, "tags" : [], "_id" : "7fLa3ywrYir2QxLpE" }
+{ "text" : "nombre", "translate" : "name", "list_id" : "ipyjFrzuC2gd3ceeD", "done" : false, "timestamp" : 1417689838950, "tags" : [], "_id" : "9snijxEDAH82WJLvf" }
+{ "_id" : "BviF7s6fZxqJ8siEJ", "done" : false, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "mverbs" ], "text" : "merecer", "timestamp" : 1416720704022, "translate" : "to merit, to deserve" }
+{ "_id" : "H2YbjmCGXyFi8HDek", "done" : false, "list_id" : "F5P8yavLAAgPmPCFr", "tags" : [ "body" ], "text" : "manos", "timestamp" : 1417778270904, "translate" : "hands" }
+{ "_id" : "H4yrkhSs5NoFpcJfq", "done" : false, "list_id" : "YaBN2idm6NuCfESPM", "tags" : [ "testtag" ], "text" : "testwordoneeeeee", "timestamp" : 1416683235022, "translate" : "testwordtwoooooo" }
+{ "_id" : "HXHz5YvkGp8kRgBYF", "done" : false, "list_id" : "F5P8yavLAAgPmPCFr", "tags" : [ "body" ], "text" : "cuerpo", "timestamp" : 1417421022029, "translate" : "body" }
+{ "_id" : "JcpTG8sgxXcuCy5TS", "done" : false, "list_id" : "YaBN2idm6NuCfESPM", "tags" : [], "text" : "foooooooo", "timestamp" : 1417407334116, "translate" : "bar" }
+{ "text" : "ligero", "translate" : "light", "list_id" : "F5P8yavLAAgPmPCFr", "done" : false, "timestamp" : 1417421032148, "tags" : [], "_id" : "NEJ8x8j9sYtoZqFj5" }
+{ "_id" : "NbHH6rRnLhjxADKQX", "done" : false, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "pverbs" ], "text" : "platicar", "timestamp" : 1416721071518, "translate" : "to talk, to converse" }
+{ "_id" : "PDZAx6YJ6D3rTDTQq", "done" : false, "list_id" : "YaBN2idm6NuCfESPM", "tags" : [ "testtag" ], "text" : "testwordthreeeee", "timestamp" : 1416683251254, "translate" : "testwordfourooooooo" }
+{ "_id" : "Q8hLzrFtQ3Leee5nF", "done" : false, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "pverbs" ], "text" : "proteger", "timestamp" : 1416721374570, "translate" : "to protect" }
+{ "_id" : "QWSzohX7EdCYkDyDx", "done" : false, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "rverbs" ], "text" : "rellenar", "timestamp" : 1416722627646, "translate" : "to fill" }
+{ "_id" : "RoxqSFemH2Nz63qW4", "done" : false, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "rverbs" ], "text" : "romper", "timestamp" : 1416776552404, "translate" : "to break,to smash" }
+{ "_id" : "Sa4dWBDSQ6eXgi7gG", "done" : false, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "tverbs" ], "text" : "tocar", "timestamp" : 1416776722167, "translate" : "to touch,to play" }
+{ "_id" : "WwLpxzZ3eNyh3MpfN", "done" : false, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "sverbs" ], "text" : "subir", "timestamp" : 1416776330841, "translate" : "to rise,to go up,to upload" }
+{ "_id" : "XYLT9qjzfZQPLJt2f", "done" : false, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "pverbs" ], "text" : "pegar", "timestamp" : 1416720884685, "translate" : "to paste, to glue" }
+{ "_id" : "YDN9LKPQqPtsqjt8h", "done" : false, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "sverbs" ], "text" : "suponer", "timestamp" : 1416776623274, "translate" : "to suppose" }
+{ "_id" : "bWGJd6dBdLCP2RnDm", "done" : false, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "nverbs" ], "text" : "nadar", "timestamp" : 1416720749604, "translate" : "to swim" }
+{ "_id" : "cKT7bShzh8AX6FSiu", "done" : false, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "rverbs" ], "text" : "reñir", "timestamp" : 1416685170690, "translate" : "to quarrel" }
+{ "_id" : "fLiNoXcj95atTKAau", "done" : false, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "pverbs" ], "text" : "pisar", "timestamp" : 1416720926278, "translate" : "to step" }
+{ "_id" : "hay4s6cyQNwG8emm7", "done" : false, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "zverbs" ], "text" : "zumbar", "timestamp" : 1416776461700, "translate" : "to buzz" }
+{ "_id" : "jpp2bKPwXfigJ36v2", "done" : false, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "sverbs" ], "text" : "soplar", "timestamp" : 1416776603403, "translate" : "to blow" }
+{ "_id" : "ksjmcpYfjvKhcjmKx", "done" : false, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "pverbs" ], "text" : "probar", "timestamp" : 1416721193050, "translate" : "to prove, to try, to test" }
+{ "_id" : "m5JRTWGPcJQeZsfTZ", "done" : false, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "vverbs", "55verbs" ], "text" : "venir", "timestamp" : 1416720616288, "translate" : "to come" }
+{ "text" : "adelantes", "translate" : "hasten", "list_id" : "F5P8yavLAAgPmPCFr", "done" : false, "timestamp" : 1417421000766, "tags" : [], "_id" : "mqYyt9KFqemrNey72" }
+{ "_id" : "ohQKgxNTrAAMzDkRo", "done" : false, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "pverbs" ], "text" : "partir", "timestamp" : 1416720832368, "translate" : "to split up, to divide" }
+{ "_id" : "pjJXPxPobkWcptDBk", "done" : false, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "pverbs" ], "text" : "proclamar", "timestamp" : 1416721235886, "translate" : "to proclaim" }
+{ "text" : "cintura", "translate" : "waist", "list_id" : "ipyjFrzuC2gd3ceeD", "done" : false, "timestamp" : 1417690070770, "tags" : [], "_id" : "qHudePwe7oHggoqro" }
+{ "_id" : "qgBG7zRQ7sgJckKN3", "done" : false, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "mverbs" ], "text" : "maldecir", "timestamp" : 1416720539812, "translate" : "to curse" }
+{ "_id" : "tKpcCpBZETfAcbPaw", "done" : false, "list_id" : "F5P8yavLAAgPmPCFr", "tags" : [ "body" ], "text" : "pierna", "timestamp" : 1417421013029, "translate" : "leg" }
+{ "_id" : "txTvoKpvpn48M3cth", "done" : false, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "mverbs" ], "text" : "medir", "timestamp" : 1416777120889, "translate" : "to measure" }
+{ "_id" : "vBj6cDwZq7kFyrGTy", "done" : false, "list_id" : "YaBN2idm6NuCfESPM", "tags" : [ "testtag" ], "text" : "testwordfiveeeeeeee", "timestamp" : 1416683262549, "translate" : "testwordsixxxxxxxxxxx" }
+{ "_id" : "xQar8EmKABK8JF7AG", "done" : false, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "pverbs" ], "text" : "pasearse", "timestamp" : 1416720477984, "translate" : "to go for a walk" }
+{ "_id" : "yxE8YjPtPQmeGZPLK", "done" : false, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "rverbs" ], "text" : "roer", "timestamp" : 1416776524698, "translate" : "to gnaw, to nibble" }
+{ "_id" : "zLGTneMMdMsZccmuu", "done" : false, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "pverbs" ], "text" : "prestar", "timestamp" : 1416721135682, "translate" : "to give, to lend" }
+{ "_id" : { "$oid" : "542a8ed3a039e178981016db" }, "list_id" : "8jNwjjajoQ9puioKR", "tags" : [ "greetings" ], "text" : "adios", "translate" : "goodbye" }
+{ "_id" : { "$oid" : "542a8ed3a039e178981016dc" }, "list_id" : "8jNwjjajoQ9puioKR", "tags" : [ "people" ], "text" : "amigo", "translate" : "friend m" }
+{ "_id" : { "$oid" : "542a8ed3a039e178981016dd" }, "list_id" : "8jNwjjajoQ9puioKR", "tags" : [ "people" ], "text" : "amiga", "translate" : "friend f" }
+{ "_id" : { "$oid" : "542a8ed3a039e178981016de" }, "list_id" : "8jNwjjajoQ9puioKR", "tags" : [ "time" ], "text" : "ahora", "translate" : "now" }
+{ "_id" : { "$oid" : "542a8ed3a039e178981016df" }, "list_id" : "8jNwjjajoQ9puioKR", "tags" : [ "places" ], "text" : "aqui", "translate" : "here" }
+{ "_id" : { "$oid" : "542a8ed3a039e178981016e0" }, "list_id" : "8jNwjjajoQ9puioKR", "tags" : [ "greetings" ], "text" : "bueno", "translate" : "good" }
+{ "_id" : { "$oid" : "542a8ed3a039e178981016e1" }, "list_id" : "8jNwjjajoQ9puioKR", "tags" : [ "animals" ], "text" : "caballero", "translate" : "horse" }
+{ "_id" : { "$oid" : "542a8ed3a039e178981016e2" }, "text" : "carta", "translate" : "letter", "list_id" : "8jNwjjajoQ9puioKR" }
+{ "_id" : { "$oid" : "542a8ed3a039e178981016e3" }, "list_id" : "8jNwjjajoQ9puioKR", "tags" : [ "places" ], "text" : "calle (la)", "translate" : "street" }
+{ "_id" : { "$oid" : "542a8ed3a039e178981016e4" }, "text" : "cansada", "translate" : "tired", "list_id" : "8jNwjjajoQ9puioKR" }
+{ "_id" : { "$oid" : "542a8ed3a039e178981016e5" }, "list_id" : "8jNwjjajoQ9puioKR", "tags" : [ "house" ], "text" : "casa (la)", "translate" : "house" }
+{ "_id" : { "$oid" : "542a8ed3a039e178981016e6" }, "text" : "de nada", "translate" : "you are welcome", "list_id" : "8jNwjjajoQ9puioKR" }
+{ "_id" : { "$oid" : "542a8ed3a039e178981016e7" }, "list_id" : "8jNwjjajoQ9puioKR", "tags" : [ "house" ], "text" : "dormitorio", "translate" : "room" }
+{ "_id" : { "$oid" : "542a8ed3a039e178981016e8" }, "text" : "Como se llama", "translate" : "what is it called", "list_id" : "8jNwjjajoQ9puioKR" }
+{ "_id" : { "$oid" : "542a8ed3a039e178981016e9" }, "text" : "derecha", "translate" : "right (direction)", "list_id" : "8jNwjjajoQ9puioKR" }
+{ "_id" : { "$oid" : "542a8ed3a039e178981016ea" }, "text" : "direccion", "translate" : "address", "list_id" : "8jNwjjajoQ9puioKR" }
+{ "_id" : { "$oid" : "542a8ed3a039e178981016eb" }, "text" : "entiender", "translate" : "understand", "list_id" : "8jNwjjajoQ9puioKR" }
+{ "_id" : { "$oid" : "542a8ed3a039e178981016ec" }, "text" : "eres amiga de teresa", "translate" : "are you a friend of Teresa", "list_id" : "8jNwjjajoQ9puioKR" }
+{ "_id" : { "$oid" : "542a8ed3a039e178981016ed" }, "text" : "soy amiga de Teres", "translate" : "I am a friend of Teresa", "list_id" : "8jNwjjajoQ9puioKR" }
+{ "_id" : { "$oid" : "542a8ed3a039e178981016ee" }, "text" : "es aqui", "translate" : "its here (m)", "list_id" : "8jNwjjajoQ9puioKR" }
+{ "_id" : { "$oid" : "542a8ed3a039e178981016ef" }, "text" : "esta aqui", "translate" : "its here (f)", "list_id" : "8jNwjjajoQ9puioKR" }
+{ "_id" : { "$oid" : "542a8ed3a039e178981016f0" }, "text" : "esperander", "translate" : "to wait", "list_id" : "8jNwjjajoQ9puioKR" }
+{ "_id" : { "$oid" : "542a8ed3a039e178981016f1" }, "text" : "esquina", "translate" : "corner", "list_id" : "8jNwjjajoQ9puioKR" }
+{ "_id" : { "$oid" : "542a8ed3a039e178981016f2" }, "text" : "hasta luego", "translate" : "see you later", "list_id" : "8jNwjjajoQ9puioKR" }
+{ "_id" : { "$oid" : "542a8ed3a039e178981016f3" }, "text" : "hola", "translate" : "hello", "list_id" : "8jNwjjajoQ9puioKR" }
+{ "_id" : { "$oid" : "542a8ed3a039e178981016f4" }, "text" : "hermana", "translate" : "sister", "list_id" : "8jNwjjajoQ9puioKR" }
+{ "_id" : { "$oid" : "542a8ed3a039e178981016f5" }, "list_id" : "8jNwjjajoQ9puioKR", "tags" : [ "people" ], "text" : "hermano", "translate" : "brother" }
+{ "_id" : { "$oid" : "542a8ed3a039e178981016f6" }, "text" : "gracias", "translate" : "thankyou", "list_id" : "8jNwjjajoQ9puioKR" }
+{ "_id" : { "$oid" : "542a8ed3a039e178981016f7" }, "text" : "fregadero", "translate" : "sink", "list_id" : "8jNwjjajoQ9puioKR" }
+{ "_id" : { "$oid" : "542a8ed3a039e178981016f8" }, "text" : "llaves", "translate" : "keys", "list_id" : "8jNwjjajoQ9puioKR" }
+{ "_id" : { "$oid" : "542a8ed3a039e178981016f9" }, "text" : "no entiendo", "translate" : "I don't understand", "list_id" : "8jNwjjajoQ9puioKR" }
+{ "_id" : { "$oid" : "542a8ed3a039e178981016fa" }, "text" : "pasa", "translate" : "come in", "list_id" : "8jNwjjajoQ9puioKR" }
+{ "_id" : { "$oid" : "542a8ed3a039e178981016fb" }, "text" : "perdon", "translate" : "excuse", "list_id" : "8jNwjjajoQ9puioKR" }
+{ "_id" : { "$oid" : "542a8ed3a039e178981016fd" }, "text" : "puerta (la)", "translate" : "door or gate", "list_id" : "8jNwjjajoQ9puioKR" }
+{ "_id" : { "$oid" : "542a8ed3a039e178981016fe" }, "text" : "luego", "translate" : "later", "list_id" : "8jNwjjajoQ9puioKR" }
+{ "_id" : { "$oid" : "542a8ed3a039e178981016ff" }, "text" : "mes", "translate" : "month", "list_id" : "8jNwjjajoQ9puioKR" }
+{ "_id" : { "$oid" : "542a8ed3a039e17898101700" }, "text" : "puerdo", "translate" : "to be able to", "list_id" : "8jNwjjajoQ9puioKR" }
+{ "_id" : { "$oid" : "542a8ed3a039e17898101701" }, "text" : "quien", "translate" : "who", "list_id" : "8jNwjjajoQ9puioKR" }
+{ "_id" : { "$oid" : "542a8ed3a039e17898101702" }, "text" : "Quien eres", "translate" : "who are you", "list_id" : "8jNwjjajoQ9puioKR" }
+{ "_id" : { "$oid" : "542a8ed3a039e17898101703" }, "text" : "Que quieres", "translate" : "what do you want", "list_id" : "8jNwjjajoQ9puioKR" }
+{ "_id" : { "$oid" : "542a8ed3a039e17898101704" }, "text" : "no te preocupes", "translate" : "no worries", "list_id" : "8jNwjjajoQ9puioKR" }
+{ "_id" : { "$oid" : "542a8ed3a039e17898101705" }, "text" : "soy", "translate" : "I am", "list_id" : "8jNwjjajoQ9puioKR" }
+{ "_id" : { "$oid" : "542a8ed3a039e17898101706" }, "text" : "tambien", "translate" : "also", "list_id" : "8jNwjjajoQ9puioKR" }
+{ "_id" : { "$oid" : "542a8ed3a039e17898101707" }, "text" : "vamos", "translate" : "lets go (let's)", "list_id" : "8jNwjjajoQ9puioKR" }
+{ "_id" : { "$oid" : "542a8ed3a039e17898101708" }, "text" : "vale", "translate" : "ok", "list_id" : "8jNwjjajoQ9puioKR" }
+{ "_id" : { "$oid" : "542a8ed3a039e17898101709" }, "text" : "voy", "translate" : "I am going", "list_id" : "8jNwjjajoQ9puioKR" }
+{ "_id" : { "$oid" : "542a8ed3a039e1789810170a" }, "text" : "ultimo (a)", "translate" : "last", "list_id" : "8jNwjjajoQ9puioKR" }
+{ "_id" : { "$oid" : "542a8ed3a039e1789810170b" }, "text" : "una hora", "translate" : "one hour", "list_id" : "8jNwjjajoQ9puioKR" }
+{ "_id" : { "$oid" : "542a8ed3a039e1789810170c" }, "text" : "primero", "translate" : "first floor", "list_id" : "8jNwjjajoQ9puioKR" }
+{ "_id" : { "$oid" : "542a8ed3a039e1789810170d" }, "text" : "segundo", "translate" : "second floor", "list_id" : "8jNwjjajoQ9puioKR" }
+{ "_id" : { "$oid" : "542a8ed3a039e1789810170e" }, "text" : "tercero", "translate" : "third floor", "list_id" : "8jNwjjajoQ9puioKR" }
+{ "_id" : { "$oid" : "542a8ed3a039e1789810170f" }, "text" : "cuarto", "translate" : "fourth floor", "list_id" : "8jNwjjajoQ9puioKR" }
+{ "_id" : { "$oid" : "542a8ed3a039e17898101710" }, "list_id" : "8jNwjjajoQ9puioKR", "tags" : [ "places" ], "text" : "quinto", "translate" : "fifth floor" }
+{ "_id" : { "$oid" : "542e5ea14b130a70b13a4f7d" }, "text" : "el medico", "translate" : "doctor", "list_id" : "d2wJkbbGDryvjaZa6" }
+{ "_id" : { "$oid" : "542e5ea14b130a70b13a4f7e" }, "text" : "la farmacia", "translate" : "pharmacy", "list_id" : "d2wJkbbGDryvjaZa6" }
+{ "_id" : { "$oid" : "542e5ea14b130a70b13a4f7f" }, "text" : "Me siento mal", "translate" : "I feel sick", "list_id" : "d2wJkbbGDryvjaZa6" }
+{ "_id" : { "$oid" : "542e5ea14b130a70b13a4f80" }, "text" : "Me duele el estomago", "translate" : "My stomach hurts", "list_id" : "d2wJkbbGDryvjaZa6" }
+{ "_id" : { "$oid" : "542e5ea14b130a70b13a4f81" }, "text" : "Me duele aqui", "translate" : "It hurts here", "list_id" : "d2wJkbbGDryvjaZa6" }
+{ "_id" : { "$oid" : "542e5ea14b130a70b13a4f82" }, "text" : "Neceisito algo", "translate" : "I need something", "list_id" : "d2wJkbbGDryvjaZa6" }
+{ "_id" : { "$oid" : "542e5ea14b130a70b13a4f83" }, "text" : "para un aluto", "translate" : "for an adult", "list_id" : "d2wJkbbGDryvjaZa6" }
+{ "_id" : { "$oid" : "542e5ea14b130a70b13a4f84" }, "text" : "para un nino/nina", "translate" : "for a child", "list_id" : "d2wJkbbGDryvjaZa6" }
+{ "_id" : { "$oid" : "542e5ea14b130a70b13a4f85" }, "text" : "Esta mejor?", "translate" : "Are you better?", "list_id" : "d2wJkbbGDryvjaZa6" }
+{ "_id" : { "$oid" : "542e5ea14b130a70b13a4f86" }, "text" : "los sintomas", "translate" : "symptoms", "list_id" : "d2wJkbbGDryvjaZa6" }
+{ "_id" : { "$oid" : "542e5ea14b130a70b13a4f87" }, "text" : "Como se toma?", "translate" : "How do you take it?", "list_id" : "d2wJkbbGDryvjaZa6" }
+{ "_id" : { "$oid" : "542e5ea14b130a70b13a4f88" }, "text" : "la cabeza", "translate" : "head", "list_id" : "d2wJkbbGDryvjaZa6" }
+{ "_id" : { "$oid" : "542e5ea14b130a70b13a4f89" }, "text" : "la espalda", "translate" : "back", "list_id" : "d2wJkbbGDryvjaZa6" }
+{ "_id" : { "$oid" : "542e5ea14b130a70b13a4f8a" }, "text" : "los vomitos", "translate" : "vomiting", "list_id" : "d2wJkbbGDryvjaZa6" }
+{ "_id" : { "$oid" : "542e5ea14b130a70b13a4f8b" }, "text" : "el dolor", "translate" : "the pain", "list_id" : "d2wJkbbGDryvjaZa6" }
+{ "_id" : { "$oid" : "542e5ea14b130a70b13a4f8c" }, "text" : "la tos", "translate" : "cough", "list_id" : "d2wJkbbGDryvjaZa6" }
+{ "_id" : { "$oid" : "542e5ea14b130a70b13a4f8d" }, "text" : "los nervios", "translate" : "nerves", "list_id" : "d2wJkbbGDryvjaZa6" }
+{ "_id" : { "$oid" : "542e5ea14b130a70b13a4f8e" }, "text" : "el jarabe", "translate" : "syrup", "list_id" : "d2wJkbbGDryvjaZa6" }
+{ "_id" : { "$oid" : "542e5ea14b130a70b13a4f8f" }, "text" : "la chucharada", "translate" : "spoonful", "list_id" : "d2wJkbbGDryvjaZa6" }
+{ "_id" : { "$oid" : "542e5ea14b130a70b13a4f90" }, "text" : "las tiritas", "translate" : "plasters band-aids", "list_id" : "d2wJkbbGDryvjaZa6" }
+{ "_id" : { "$oid" : "542e5ea14b130a70b13a4f91" }, "text" : "las pastillas", "translate" : "pastilles lozenges", "list_id" : "d2wJkbbGDryvjaZa6" }
+{ "_id" : { "$oid" : "542e5ea14b130a70b13a4f92" }, "text" : "cada", "translate" : "every each", "list_id" : "d2wJkbbGDryvjaZa6" }
+{ "_id" : { "$oid" : "542e5ea14b130a70b13a4f93" }, "text" : "la medicina", "translate" : "medicine", "list_id" : "d2wJkbbGDryvjaZa6" }
+{ "_id" : { "$oid" : "542e5ea14b130a70b13a4f94" }, "text" : "el hospital", "translate" : "hospital", "list_id" : "d2wJkbbGDryvjaZa6" }
+{ "_id" : { "$oid" : "542e5ea14b130a70b13a4f95" }, "text" : "me siento", "translate" : "I feel", "list_id" : "d2wJkbbGDryvjaZa6" }
+{ "_id" : { "$oid" : "542e5ea14b130a70b13a4f96" }, "text" : "Y ahora que?", "translate" : "Now what?", "list_id" : "d2wJkbbGDryvjaZa6" }
+{ "_id" : { "$oid" : "542e5ea14b130a70b13a4f97" }, "text" : "Mira!", "translate" : "Look!", "list_id" : "d2wJkbbGDryvjaZa6" }
+{ "_id" : { "$oid" : "542e5ea14b130a70b13a4f98" }, "text" : "Estan aqui", "translate" : "They're here", "list_id" : "d2wJkbbGDryvjaZa6" }
+{ "_id" : { "$oid" : "542e5ea14b130a70b13a4f99" }, "text" : "Tenemos que de muy despacio", "translate" : "We must proceed very slowly", "list_id" : "d2wJkbbGDryvjaZa6" }
+{ "_id" : { "$oid" : "542e5ea14b130a70b13a4f9a" }, "text" : "Que simpatico!", "translate" : "How nice!", "list_id" : "d2wJkbbGDryvjaZa6" }
+{ "_id" : { "$oid" : "542e5ea14b130a70b13a4f9b" }, "text" : "para el coche", "translate" : "stop the car", "list_id" : "d2wJkbbGDryvjaZa6" }
+{ "_id" : { "$oid" : "542e5ea14b130a70b13a4f9c" }, "text" : "podemos para en una farmacia", "translate" : "can we stop at the pharmacy", "list_id" : "d2wJkbbGDryvjaZa6" }
+{ "_id" : { "$oid" : "542e5ea14b130a70b13a4f9d" }, "text" : "conozo esta zona", "translate" : "I know this zone", "list_id" : "d2wJkbbGDryvjaZa6" }
+{ "_id" : { "$oid" : "542e5ea24b130a70b13a4f9e" }, "text" : "paramos en una farmacia", "translate" : "we will stop at the pharmacy", "list_id" : "d2wJkbbGDryvjaZa6" }
+{ "_id" : { "$oid" : "542e5ea24b130a70b13a4f9f" }, "text" : "mandado", "translate" : "prescription", "list_id" : "d2wJkbbGDryvjaZa6" }
+{ "_id" : { "$oid" : "542e5ea24b130a70b13a4fa0" }, "text" : "tienes otros sintomas?", "translate" : "any other symptoms?", "list_id" : "d2wJkbbGDryvjaZa6" }
+{ "_id" : { "$oid" : "542e5ea24b130a70b13a4fa1" }, "text" : "podrian (poder)", "translate" : "could", "list_id" : "d2wJkbbGDryvjaZa6" }
+{ "_id" : { "$oid" : "542e5ea24b130a70b13a4fa2" }, "text" : "podrian ser nervios?", "translate" : "could it be nerves?", "list_id" : "d2wJkbbGDryvjaZa6" }
+{ "_id" : { "$oid" : "542e5ea24b130a70b13a4fa3" }, "text" : "Un segundo", "translate" : "one second", "list_id" : "d2wJkbbGDryvjaZa6" }
+{ "_id" : { "$oid" : "542e5ea24b130a70b13a4fa4" }, "text" : "Me he quedado dormida (quedar)", "translate" : "I fell asleep", "list_id" : "d2wJkbbGDryvjaZa6" }
+{ "_id" : { "$oid" : "542e5ea24b130a70b13a4fa5" }, "text" : "comprado", "translate" : "I buy", "list_id" : "d2wJkbbGDryvjaZa6" }
+{ "_id" : { "$oid" : "542e5ea24b130a70b13a4fa6" }, "text" : "muchos gracias por todo", "translate" : "thankyou for everything", "list_id" : "d2wJkbbGDryvjaZa6" }
+{ "_id" : { "$oid" : "542e5ea24b130a70b13a4fa7" }, "text" : "subiendo", "translate" : "going up", "list_id" : "d2wJkbbGDryvjaZa6" }
+{ "_id" : { "$oid" : "542e5ea24b130a70b13a4fa8" }, "text" : "cierre de puertas", "translate" : "doors closing", "list_id" : "d2wJkbbGDryvjaZa6" }
+{ "_id" : { "$oid" : "543656714f25998337e26dee" }, "text" : "la cuenta", "translate" : "the bill", "list_id" : "5w3oKxAovSibvsyXQ" }
+{ "_id" : { "$oid" : "543656714f25998337e26def" }, "text" : "el metro", "translate" : "the metro", "list_id" : "5w3oKxAovSibvsyXQ" }
+{ "_id" : { "$oid" : "543656714f25998337e26df0" }, "text" : "a la derecha", "translate" : "to the right", "list_id" : "5w3oKxAovSibvsyXQ" }
+{ "_id" : { "$oid" : "543656714f25998337e26df1" }, "text" : "a la izquierda", "translate" : "to the left", "list_id" : "5w3oKxAovSibvsyXQ" }
+{ "_id" : { "$oid" : "543656714f25998337e26df2" }, "text" : "qiueres comer?", "translate" : "would you like ot eat?", "list_id" : "5w3oKxAovSibvsyXQ" }
+{ "_id" : { "$oid" : "543656714f25998337e26df3" }, "text" : "Recuerdes esto?", "translate" : "remember this?", "list_id" : "5w3oKxAovSibvsyXQ" }
+{ "_id" : { "$oid" : "543656714f25998337e26df4" }, "text" : "La cuenta por favor", "translate" : "the bill please", "list_id" : "5w3oKxAovSibvsyXQ" }
+{ "_id" : { "$oid" : "543656714f25998337e26df5" }, "text" : "busquemos", "translate" : "lets find", "list_id" : "5w3oKxAovSibvsyXQ" }
+{ "_id" : { "$oid" : "543656714f25998337e26df6" }, "text" : "todo recto", "translate" : "straight ahead", "list_id" : "5w3oKxAovSibvsyXQ" }
+{ "_id" : { "$oid" : "543656714f25998337e26df7" }, "text" : "la flecha", "translate" : "arrow", "list_id" : "5w3oKxAovSibvsyXQ" }
+{ "_id" : { "$oid" : "543656714f25998337e26df8" }, "text" : "oso", "translate" : "bear", "list_id" : "5w3oKxAovSibvsyXQ" }
+{ "_id" : { "$oid" : "543656714f25998337e26df9" }, "text" : "requerdas?", "translate" : "remember?", "list_id" : "5w3oKxAovSibvsyXQ" }
+{ "_id" : { "$oid" : "543656714f25998337e26dfa" }, "text" : "no olvides", "translate" : "dont forget", "list_id" : "5w3oKxAovSibvsyXQ" }
+{ "_id" : { "$oid" : "543656714f25998337e26dfb" }, "text" : "olvidar", "translate" : "forget", "list_id" : "5w3oKxAovSibvsyXQ" }
+{ "_id" : { "$oid" : "543656714f25998337e26dfc" }, "text" : "amarilla", "translate" : "yellow", "list_id" : "5w3oKxAovSibvsyXQ" }
+{ "_id" : { "$oid" : "543656714f25998337e26dfd" }, "text" : "vamos a ver", "translate" : "look here-we'll see", "list_id" : "5w3oKxAovSibvsyXQ" }
+{ "_id" : { "$oid" : "543656714f25998337e26dfe" }, "text" : "llegara", "translate" : "arrive", "list_id" : "5w3oKxAovSibvsyXQ" }
+{ "_id" : { "$oid" : "543656714f25998337e26dff" }, "text" : "proximo proxima", "translate" : "next", "list_id" : "5w3oKxAovSibvsyXQ" }
+{ "_id" : { "$oid" : "543656714f25998337e26e00" }, "text" : "uno", "translate" : "one", "list_id" : "5w3oKxAovSibvsyXQ" }
+{ "_id" : { "$oid" : "543656714f25998337e26e01" }, "text" : "dos", "translate" : "two", "list_id" : "5w3oKxAovSibvsyXQ" }
+{ "_id" : { "$oid" : "543656714f25998337e26e02" }, "text" : "tres", "translate" : "three", "list_id" : "5w3oKxAovSibvsyXQ" }
+{ "_id" : { "$oid" : "543656714f25998337e26e03" }, "text" : "un sencillo", "translate" : "single", "list_id" : "5w3oKxAovSibvsyXQ" }
+{ "_id" : { "$oid" : "543656714f25998337e26e04" }, "text" : "un viaje", "translate" : "a journey", "list_id" : "5w3oKxAovSibvsyXQ" }
+{ "_id" : { "$oid" : "543656714f25998337e26e05" }, "text" : "la linea", "translate" : "line", "list_id" : "5w3oKxAovSibvsyXQ" }
+{ "_id" : { "$oid" : "543656714f25998337e26e06" }, "text" : "la estacion", "translate" : "station", "list_id" : "5w3oKxAovSibvsyXQ" }
+{ "_id" : { "$oid" : "543656714f25998337e26e07" }, "text" : "el tren", "translate" : "train", "list_id" : "5w3oKxAovSibvsyXQ" }
+{ "_id" : { "$oid" : "543656714f25998337e26e08" }, "text" : "de", "translate" : "of from", "list_id" : "5w3oKxAovSibvsyXQ" }
+{ "_id" : { "$oid" : "543656714f25998337e26e09" }, "text" : "el centro", "translate" : "centre", "list_id" : "5w3oKxAovSibvsyXQ" }
+{ "_id" : { "$oid" : "543656714f25998337e26e0a" }, "text" : "el convento", "translate" : "convent", "list_id" : "5w3oKxAovSibvsyXQ" }
+{ "_id" : { "$oid" : "543656714f25998337e26e0b" }, "text" : "el palacio", "translate" : "palace", "list_id" : "5w3oKxAovSibvsyXQ" }
+{ "_id" : { "$oid" : "543656714f25998337e26e0c" }, "text" : "la iglesia", "translate" : "church", "list_id" : "5w3oKxAovSibvsyXQ" }
+{ "_id" : { "$oid" : "543656714f25998337e26e0d" }, "text" : "Todo bien?", "translate" : "all good?", "list_id" : "5w3oKxAovSibvsyXQ" }
+{ "_id" : { "$oid" : "543656714f25998337e26e0e" }, "text" : "enseguida", "translate" : "right away", "list_id" : "5w3oKxAovSibvsyXQ" }
+{ "_id" : { "$oid" : "543656714f25998337e26e0f" }, "text" : "cero", "translate" : "zero", "list_id" : "5w3oKxAovSibvsyXQ" }
+{ "_id" : { "$oid" : "543656714f25998337e26e10" }, "text" : "kilometro", "translate" : "kilometre", "list_id" : "5w3oKxAovSibvsyXQ" }
+{ "_id" : { "$oid" : "543656714f25998337e26e11" }, "text" : "minuto", "translate" : "minute", "list_id" : "5w3oKxAovSibvsyXQ" }
+{ "_id" : { "$oid" : "543656714f25998337e26e12" }, "text" : "el cruasan", "translate" : "croissant", "list_id" : "5w3oKxAovSibvsyXQ" }
+{ "_id" : { "$oid" : "547058a804a55c6c807e2572" }, "text" : "jugar", "translate" : "to play (game", "list_id" : "sport)", "tags" : { "0" : "h9ocPPRC2nBdip5EY", "1" : "501verbs" } }
+{ "_id" : { "$oid" : "547058a804a55c6c807e25ca" }, "text" : "preguntar.to ask", "translate" : "h9ocPPRC2nBdip5EY", "list_id" : "501verbs", "tags" : { "0" : "pverbs" } }
+{ "_id" : { "$oid" : "5470de2d04a55c6c807e264c" }, "text" : "abatir", "translate" : "to knock down - to overthrow - to throw down", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2d04a55c6c807e264d" }, "text" : "abrasar", "translate" : "to burn - to set on fire", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2d04a55c6c807e264e" }, "text" : "abrazar", "translate" : "to embrace - to hug - to clamp", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2d04a55c6c807e264f" }, "text" : "abrir", "translate" : "to open", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2d04a55c6c807e2650" }, "text" : "absolver", "translate" : "to absolve - to acquit", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2d04a55c6c807e2651" }, "text" : "abstenerse", "translate" : "to abstain", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2d04a55c6c807e2652" }, "text" : "aburrir", "translate" : "to annoy - to bore - to vex", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2d04a55c6c807e2653" }, "text" : "aburrirse", "translate" : "to be bored - to grow tired - to grow weary", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2d04a55c6c807e2654" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs", "55verbs" ], "text" : "acabar", "translate" : "to finish - to end - to complete" }
+{ "_id" : { "$oid" : "5470de2d04a55c6c807e2655" }, "text" : "acelaerar", "translate" : "to accelerate - to hurry", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2d04a55c6c807e2656" }, "text" : "aceptar", "translate" : "to accept", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2d04a55c6c807e2657" }, "text" : "acercar", "translate" : "to bring near", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2d04a55c6c807e2658" }, "text" : "acercarse", "translate" : "to approach", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2d04a55c6c807e2659" }, "text" : "acertar", "translate" : "to hit the mark - to do right - to succeed in", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2d04a55c6c807e265a" }, "text" : "aclamar", "translate" : "to acclaim - to applaud - to shout", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2d04a55c6c807e265b" }, "text" : "aclarar", "translate" : "to explain - to clarify - to rinse - to clear", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2d04a55c6c807e265c" }, "text" : "acompañar", "translate" : "to accompany - to escort - to go with", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2d04a55c6c807e265d" }, "text" : "aconsejar", "translate" : "to advise - to counsel", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2d04a55c6c807e265e" }, "text" : "acordar", "translate" : "to agree(upon)", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2d04a55c6c807e265f" }, "text" : "acordarse", "translate" : "to remember", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2d04a55c6c807e2660" }, "text" : "acostarse", "translate" : "to go to bed - to lie down", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2d04a55c6c807e2661" }, "text" : "acostumbrar", "translate" : "to be accustomed - to be in the habit of", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2d04a55c6c807e2662" }, "text" : "acuchillar", "translate" : "to knife - to cut - to slash", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2d04a55c6c807e2663" }, "text" : "acudir", "translate" : "to attend - to come to the rescue", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2d04a55c6c807e2664" }, "text" : "acusar", "translate" : "to accuse", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2d04a55c6c807e2665" }, "text" : "adelantar", "translate" : "to advance - to progress", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2d04a55c6c807e2666" }, "text" : "adelantarse", "translate" : "to go forward - to take the lead", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2667" }, "text" : "adivinar", "translate" : "to divine - to foretell", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2668" }, "text" : "admirar", "translate" : "to admire", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2669" }, "text" : "admitir", "translate" : "to admit", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e266a" }, "text" : "adoptar", "translate" : "to adopt", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e266b" }, "text" : "adorar", "translate" : "to adore - to worship", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e266c" }, "text" : "adquirir", "translate" : "to acquire - to get - to obtain", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e266d" }, "text" : "advertir", "translate" : "to advise - to warn", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e266e" }, "text" : "afeitarse", "translate" : "to shave oneself", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e266f" }, "text" : "agarrar", "translate" : "to grasp - to clutch", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2670" }, "text" : "agitar", "translate" : "to agitate - to stir", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2671" }, "text" : "agotar", "translate" : "to exhaust - to use up", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2672" }, "text" : "agradar", "translate" : "to please - to be pleasing", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2673" }, "text" : "agradecer", "translate" : "to thank - to be thankful for", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2674" }, "text" : "agrandar", "translate" : "to enlarge - to increase", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2675" }, "text" : "agravar", "translate" : "to aggravate - to make worse", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2676" }, "text" : "agregar", "translate" : "to add - to collect - to gather", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2677" }, "text" : "agrupar", "translate" : "to group", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2678" }, "text" : "aguardar", "translate" : "to expect - to wait for", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2679" }, "text" : "ahorrar", "translate" : "to save - to economise", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e267a" }, "text" : "alcanzar", "translate" : "to reach - to overtake", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e267b" }, "text" : "alegrarse", "translate" : "to be glad - to rejoice", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e267c" }, "text" : "almorzar", "translate" : "to lunch - to have lunch", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e267d" }, "text" : "alquillar", "translate" : "to hire - to rent", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e267e" }, "text" : "alumbrar", "translate" : "to illuminate - to light - to enlighten", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e267f" }, "text" : "alumbrarse", "translate" : "to get tipsy", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2680" }, "text" : "alzar", "translate" : "to heave - to lift - to pick up", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2681" }, "text" : "amar", "translate" : "to love", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2682" }, "text" : "añadir", "translate" : "to add", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2683" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs", "55verbs" ], "text" : "andar", "translate" : "to walk" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2684" }, "text" : "anunciar", "translate" : "to announce - to foretell - to proclaim", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2685" }, "text" : "añadir", "translate" : "to add", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2686" }, "text" : "apagar", "translate" : "to extinguish", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2687" }, "text" : "aparecer", "translate" : "to appear", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2688" }, "text" : "aplaudir", "translate" : "to applaud", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2689" }, "text" : "apoderarse", "translate" : "to take power - to take possession", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e268a" }, "text" : "apreciar", "translate" : "to appreciate", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e268b" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs", "55verbs" ], "text" : "aprender", "translate" : "to learn" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e268c" }, "text" : "apresurarse", "translate" : "to hasten - to hurry - to rush", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e268d" }, "text" : "aprobar", "translate" : "to approve - to pass a test", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e268e" }, "text" : "aprovecharse", "translate" : "to take advantage - to avail oneself", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e268f" }, "text" : "apurarse", "translate" : "to fret - to grieve - to worry", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2690" }, "text" : "arrancar", "translate" : "to pull out", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2691" }, "text" : "arreglar", "translate" : "to fix - to arrange - to repair", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2692" }, "text" : "arrojar", "translate" : "to throw", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2693" }, "text" : "articular", "translate" : "to articulate", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2694" }, "text" : "asegurar", "translate" : "to assure - to affirm - to insure", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2695" }, "text" : "asir", "translate" : "to grasp", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2696" }, "text" : "asistir", "translate" : "to assist", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2697" }, "text" : "asustarse", "translate" : "to be frightened - to be scared", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2698" }, "text" : "atacar", "translate" : "to attack", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2699" }, "text" : "atenerse", "translate" : "to rely on - to depend on", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e269a" }, "text" : "atraer", "translate" : "to attract - to allure - to charm", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e269b" }, "text" : "atravesar", "translate" : "to cross - to go through - to run through", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e269c" }, "text" : "atreverse", "translate" : "to dare - to venture", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e269d" }, "text" : "avanzar", "translate" : "to advance", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e269e" }, "text" : "averiguar", "translate" : "to investigate - to find out", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e269f" }, "text" : "ayudar", "translate" : "to help - to aid - to assist", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "averbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26a0" }, "text" : "bailar", "translate" : "to dance", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "bverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26a1" }, "text" : "bajar", "translate" : "to lower-to go down", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "bverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26a2" }, "text" : "balbucear", "translate" : "to stammer", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "bverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26a3" }, "text" : "bañarse", "translate" : "to take a bath", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "bverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26a4" }, "text" : "barrer", "translate" : "to sweep-to whisk", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "bverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26a5" }, "text" : "bautizar", "translate" : "to baptise", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "bverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26a6" }, "text" : "beber", "translate" : "to drink", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "bverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26a7" }, "text" : "bendecir", "translate" : "to bless", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "bverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26a8" }, "text" : "borrar", "translate" : "to erase", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "bverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26a9" }, "text" : "bostezar", "translate" : "to yawn", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "bverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26aa" }, "text" : "botar", "translate" : "to launch", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "bverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26ab" }, "text" : "broncear", "translate" : "to tan-to bronze", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "bverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26ac" }, "text" : "bullir", "translate" : "to stir-to boil-to hustle", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "bverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26ad" }, "text" : "burlarse", "translate" : "to ridicule", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "bverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26ae" }, "text" : "buscar", "translate" : "to seek-to look for", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "bverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26af" }, "text" : "caber", "translate" : "to be contained-to fit into", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26b0" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs", "55verbs" ], "text" : "caer", "translate" : "to fall" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26b1" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs", "55verbs" ], "text" : "caerse", "translate" : "to fall" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26b2" }, "text" : "calentar", "translate" : "to heat-to warm up", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26b3" }, "text" : "calzar", "translate" : "to shoe-to put on shoes-to wear shoes", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26b4" }, "text" : "callarse", "translate" : "to be silent", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26b5" }, "text" : "cambiar", "translate" : "to change", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26b6" }, "text" : "caminar", "translate" : "to walk", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26b7" }, "text" : "cansarse", "translate" : "to become tired", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26b8" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs", "55verbs" ], "text" : "cantar", "translate" : "to sing" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26b9" }, "text" : "caracterizar", "translate" : "to characterise", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26ba" }, "text" : "cargar", "translate" : "to load-to burden", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26bb" }, "text" : "casarse", "translate" : "to marry", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26bc" }, "text" : "celebrar", "translate" : "to celebrate", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26bd" }, "text" : "cenar", "translate" : "to have supper", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26be" }, "text" : "cepillar", "translate" : "to brush", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26bf" }, "text" : "cerrar", "translate" : "to close", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26c0" }, "text" : "certificar", "translate" : "to attest-to certify", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26c1" }, "text" : "charlar", "translate" : "to talk", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26c2" }, "text" : "chistar", "translate" : "to mumble", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26c3" }, "text" : "chupar", "translate" : "to suck", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26c4" }, "text" : "citar", "translate" : "to quote-to make an appointment", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26c5" }, "text" : "cocinar", "translate" : "to cook", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26c6" }, "text" : "coger", "translate" : "to catch", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26c7" }, "text" : "colegir", "translate" : "to collect", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26c8" }, "text" : "colgar", "translate" : "to hang (up)", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26c9" }, "text" : "colocar", "translate" : "to put-to place", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26ca" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs", "55verbs" ], "text" : "comenzar", "translate" : "to begin" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26cb" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs", "55verbs" ], "text" : "comer", "translate" : "to eat" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26cc" }, "text" : "componer", "translate" : "to compose", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26cd" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs", "55verbs" ], "text" : "comprar", "translate" : "to buy" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26ce" }, "text" : "comprender", "translate" : "to understand", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26cf" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs", "55verbs" ], "text" : "conducir", "translate" : "to lead" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26d0" }, "text" : "confesar", "translate" : "to confess", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26d1" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs", "55verbs" ], "text" : "conocer", "translate" : "to know-to be aquainted with" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26d2" }, "text" : "conseguir", "translate" : "to get", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26d3" }, "text" : "constituir", "translate" : "to constitute", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26d4" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs", "55verbs" ], "text" : "construir", "translate" : "to build" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26d5" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs", "55verbs" ], "text" : "contar", "translate" : "to count" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26d6" }, "text" : "contener", "translate" : "to contain-to hold", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26d7" }, "text" : "contestar", "translate" : "to answer", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26d8" }, "text" : "continuar", "translate" : "to continue", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26d9" }, "text" : "contribuir", "translate" : "to contribute", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26da" }, "text" : "convencer", "translate" : "to convince", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26db" }, "text" : "convenir", "translate" : "to agree", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26dc" }, "text" : "convertir", "translate" : "to convert", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26dd" }, "text" : "convocar", "translate" : "to convene-to summon", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26de" }, "text" : "corregir", "translate" : "to correct", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26df" }, "text" : "correr", "translate" : "to run", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26e0" }, "text" : "cortar", "translate" : "to cut", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26e1" }, "text" : "costar", "translate" : "to cost", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26e2" }, "text" : "crecer", "translate" : "to grow", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26e3" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs", "55verbs" ], "text" : "creer", "translate" : "to believe" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26e4" }, "text" : "criar", "translate" : "to breed-to raise", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26e5" }, "text" : "cruzar", "translate" : "to cross", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26e6" }, "text" : "cubrir", "translate" : "to cover", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26e7" }, "text" : "cuidarse", "translate" : "to take care of oneself", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26e8" }, "text" : "cumplir", "translate" : "to fulfill", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "cverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26e9" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "dverbs", "55verbs" ], "text" : "dar", "translate" : "to give" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26ea" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "dverbs", "55verbs" ], "text" : "deber", "translate" : "to owe" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26eb" }, "text" : "decidir", "translate" : "to decide", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "dverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26ec" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "dverbs", "55verbs" ], "text" : "decir", "translate" : "to say" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26ed" }, "text" : "declarar", "translate" : "to declare", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "dverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26ee" }, "text" : "dedicarse", "translate" : "to devote oneself", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "dverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26ef" }, "text" : "defender", "translate" : "to defend", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "dverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26f0" }, "text" : "dejar", "translate" : "to let-to allow-to leave", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "dverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26f1" }, "text" : "delinquir", "translate" : "to offend", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "dverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26f2" }, "text" : "demostrar", "translate" : "to demonstrate", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "dverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26f3" }, "text" : "denunciar", "translate" : "to denounce", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "dverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26f4" }, "text" : "depender", "translate" : "to depend", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "dverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26f5" }, "text" : "derribar", "translate" : "to knock down", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "dverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26f6" }, "text" : "desayunarse", "translate" : "to have breakfast", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "dverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26f7" }, "text" : "descansar", "translate" : "to rest", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "dverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26f8" }, "text" : "describir", "translate" : "to describe", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "dverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26f9" }, "text" : "descubrir", "translate" : "to discover", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "dverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26fa" }, "text" : "desear", "translate" : "to desire", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "dverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26fb" }, "text" : "desempañare", "translate" : "to play a part-to act", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "dverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26fc" }, "text" : "deschacer", "translate" : "to undo", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "dverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26fd" }, "text" : "despedirse", "translate" : "to say goodbye to", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "dverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26fe" }, "text" : "despegar", "translate" : "to detach", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "dverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e26ff" }, "text" : "desperezarse", "translate" : "to stretch oneself", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "dverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2700" }, "text" : "despertarse", "translate" : "to wake up oneself", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "dverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2701" }, "text" : "destruir", "translate" : "to destroy", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "dverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2702" }, "text" : "desvestirse", "translate" : "to undress oneself", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "dverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2703" }, "text" : "detener", "translate" : "to detain-to stop", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "dverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2704" }, "text" : "detenerse", "translate" : "to stop oneself", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "dverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2705" }, "text" : "devolver", "translate" : "to return-to give back", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "dverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2706" }, "text" : "dibujar", "translate" : "to design-to draw-to sketch", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "dverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2707" }, "text" : "dirigir", "translate" : "to direct", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "dverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2708" }, "text" : "disculparse", "translate" : "to apologise-to excuse oneself", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "dverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2709" }, "text" : "discutir", "translate" : "to discuss", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "dverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e270a" }, "text" : "disfrutar", "translate" : "to enjoy", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "dverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e270b" }, "text" : "dispensar", "translate" : "to excuse", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "dverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e270c" }, "text" : "distinguir", "translate" : "to distinguish", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "dverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e270d" }, "text" : "divertirse", "translate" : "to have a good time", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "dverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e270e" }, "text" : "divorciarse", "translate" : "to be or get divorced", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "dverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e270f" }, "text" : "doler", "translate" : "to ache", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "dverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2710" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "dverbs", "55verbs" ], "text" : "dormir", "translate" : "to sleep" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2711" }, "text" : "ducharse", "translate" : "to take a shower", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "dverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2712" }, "text" : "dudar", "translate" : "to doubt", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "dverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2713" }, "text" : "echar", "translate" : "to throw", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "everbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2714" }, "text" : "ejecutar", "translate" : "to execute-to perform", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "everbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2715" }, "text" : "ejercer", "translate" : "to exercise", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "everbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2716" }, "text" : "elegir", "translate" : "to choose", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "everbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2717" }, "text" : "embebir", "translate" : "to imbibe-to soak in", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "everbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2718" }, "text" : "empazar", "translate" : "to begin-to start", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "everbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2719" }, "text" : "empicar", "translate" : "to employ-to use", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "everbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e271a" }, "text" : "encender", "translate" : "to incite-to light", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "everbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e271b" }, "text" : "encerrar", "translate" : "to enclose", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "everbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e271c" }, "text" : "encontrar", "translate" : "to find-to meet", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "everbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e271d" }, "text" : "enfadarse", "translate" : "to become angry", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "everbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e271e" }, "text" : "enfermarse", "translate" : "to get sick", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "everbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e271f" }, "text" : "enojarse", "translate" : "to become angry", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "everbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2720" }, "text" : "enseñar", "translate" : "to teach", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "everbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2721" }, "text" : "entendar", "translate" : "to understand", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "everbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2722" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "everbs", "55verbs" ], "text" : "entrar", "translate" : "to enter" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2723" }, "text" : "entregar", "translate" : "to deliver-to give", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "everbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2724" }, "text" : "enunciar", "translate" : "to enunciate", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "everbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2725" }, "text" : "enviar", "translate" : "to send", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "everbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2726" }, "text" : "envolver", "translate" : "to wrap up", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "everbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2727" }, "text" : "equivocarse", "translate" : "to be mistaken", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "everbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2728" }, "text" : "erguir", "translate" : "to erect", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "everbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2729" }, "text" : "errar", "translate" : "to err-to miss-to wander", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "everbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e272a" }, "text" : "escoger", "translate" : "to chose-to select", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "everbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e272b" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "everbs", "55verbs" ], "text" : "escribir", "translate" : "to write" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e272c" }, "text" : "escuchar", "translate" : "to listen", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "everbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e272d" }, "text" : "esparcir", "translate" : "to scatter-to spread", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "everbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e272e" }, "text" : "esperar", "translate" : "to wait", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "everbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e272f" }, "text" : "esquiar", "translate" : "to ski", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "everbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2730" }, "text" : "establecar", "translate" : "to establish", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "everbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2731" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "everbs", "55verbs" ], "text" : "estar", "translate" : "to be" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2732" }, "text" : "estimar", "translate" : "to estimate-to value", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "everbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2733" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "everbs", "55verbs" ], "text" : "estudiar", "translate" : "to study" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2734" }, "text" : "exigir", "translate" : "to demand-to require", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "everbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2735" }, "text" : "explicar", "translate" : "to explain", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "everbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2736" }, "text" : "expresar", "translate" : "to express", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "everbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2737" }, "text" : "fabricar", "translate" : "to fabricate-to manufacture", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "fverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2738" }, "text" : "faltar", "translate" : "to need-to miss-to lack", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "fverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2739" }, "text" : "felicitar", "translate" : "to congratulate", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "fverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e273a" }, "text" : "festejar", "translate" : "to feast-to celebrate", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "fverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e273b" }, "text" : "fiar", "translate" : "to confide-to trust", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "fverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e273c" }, "text" : "fijarse", "translate" : "to pay attention-to settle", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "fverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e273d" }, "text" : "fingir", "translate" : "to feign-to pretend", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "fverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e273e" }, "text" : "firmar", "translate" : "to sign", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "fverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e273f" }, "text" : "formar", "translate" : "to form-to shape", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "fverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2740" }, "text" : "fregar", "translate" : "to wash dishes", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "fverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2741" }, "text" : "freir", "translate" : "to fry", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "fverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2742" }, "text" : "fumar", "translate" : "to smoke", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "fverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2743" }, "text" : "functionar", "translate" : "to function-to run", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "fverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2744" }, "text" : "ganar", "translate" : "to earn-to gain-to win", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "gverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2745" }, "text" : "gastar", "translate" : "to spend(money)-to waste", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "gverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2746" }, "text" : "gemir", "translate" : "to moan-to grieve", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "gverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2747" }, "text" : "gobernar", "translate" : "to govern-to rule", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "gverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2748" }, "text" : "gozar", "translate" : "to enjoy", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "gverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2749" }, "text" : "gritar", "translate" : "to shout", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "gverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e274a" }, "text" : "gruñir", "translate" : "to grumble-to growl", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "gverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e274b" }, "text" : "guiar", "translate" : "to lead-to guide", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "gverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e274c" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "gverbs", "55verbs" ], "text" : "gustar", "translate" : "to like-to be pleasing" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e274d" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "hverbs", "55verbs" ], "text" : "haber", "translate" : "to have" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e274e" }, "text" : "habitar", "translate" : "to reside-to live", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "hverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e274f" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "hverbs", "55verbs" ], "text" : "hablar", "translate" : "to speak" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2750" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "hverbs", "55verbs" ], "text" : "hacer", "translate" : "to do-to make" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2751" }, "text" : "hallar", "translate" : "to find-to come across", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "hverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2752" }, "text" : "helar", "translate" : "to freeze", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "hverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2753" }, "text" : "heredar", "translate" : "to inherit", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "hverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2754" }, "text" : "herir", "translate" : "to wound-to harm", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "hverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2755" }, "text" : "huir", "translate" : "to escape", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "hverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2756" }, "text" : "ignora", "translate" : "to ignore", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "iverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2757" }, "text" : "impedir", "translate" : "to impede-to hinder-to prevent", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "iverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2758" }, "text" : "imprimir", "translate" : "to", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "iverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2759" }, "text" : "incluir", "translate" : "to include", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "iverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e275a" }, "text" : "indicar", "translate" : "to indicate", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "iverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e275b" }, "text" : "inducir", "translate" : "to induce-to lead", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "iverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e275c" }, "text" : "influir", "translate" : "to influence", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "iverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e275d" }, "text" : "informarse", "translate" : "to find out", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "iverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e275e" }, "text" : "immigrar", "translate" : "to immigrate", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "iverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e275f" }, "text" : "inscirbir", "translate" : "to record-to inscribe", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "iverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2760" }, "text" : "inscribirse", "translate" : "to register-to enroll", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "iverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2761" }, "text" : "insistir", "translate" : "to insist-to persist-to stress", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "iverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2762" }, "text" : "interesarse", "translate" : "to be interestd in", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "iverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2763" }, "text" : "introducir", "translate" : "to introduce", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "iverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2764" }, "text" : "invitar", "translate" : "to invite", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "iverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2765" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "iverbs", "55verbs" ], "text" : "ir", "translate" : "to go" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2766" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "iverbs", "55verbs" ], "text" : "irse", "translate" : "to go away" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2767" }, "text" : "jugar", "translate" : "to play (game", "list_id" : "sport)", "tags" : [ "h9ocPPRC2nBdip5EY", "501verbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2768" }, "text" : "junter", "translate" : "to join", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "jverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2769" }, "text" : "jurar", "translate" : "to swear", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "jverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e276a" }, "text" : "juzgar", "translate" : "to judge", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "jverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e276b" }, "text" : "lanzar", "translate" : "to", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "lverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e276c" }, "text" : "lastimarse", "translate" : "to regret", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "lverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e276d" }, "text" : "lavar", "translate" : "to wash", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "lverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e276e" }, "text" : "lavarse", "translate" : "to wash oneself", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "lverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e276f" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "lverbs", "55verbs" ], "text" : "leer", "translate" : "to read" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2770" }, "text" : "levantar", "translate" : "to", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "lverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2771" }, "text" : "levantarse", "translate" : "to get up-to rise", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "lverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2772" }, "text" : "limpiar", "translate" : "to clean", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "lverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2773" }, "text" : "limpiarse", "translate" : "to clean oneself", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "lverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2774" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "lverbs", "55verbs" ], "text" : "llamar", "translate" : "to call-to name" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2775" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "lverbs", "55verbs" ], "text" : "llamarse", "translate" : "to call oneself" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2776" }, "text" : "llegar", "translate" : "to arrive-to reach", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "lverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2777" }, "text" : "llenar", "translate" : "to", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "lverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2778" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "lverbs", "55verbs" ], "text" : "llevar", "translate" : "to carry away-to wear" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2779" }, "text" : "llorar", "translate" : "to weep-to cry", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "lverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e277a" }, "text" : "luchar", "translate" : "to FIGHT", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "lverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e277c" }, "text" : "manejar", "translate" : "to manage", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "mverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e277d" }, "text" : "mantener", "translate" : "to maintain", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "mverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e277e" }, "text" : "marcar", "translate" : "to mark", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "mverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e277f" }, "text" : "marchar", "translate" : "to walk", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "mverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2781" }, "text" : "matar", "translate" : "to kill", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "mverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2783" }, "text" : "mejorar", "translate" : "to improve", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "mverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2784" }, "text" : "mencionar", "translate" : "to mention", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "mverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2785" }, "text" : "mentir", "translate" : "to lie", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "mverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2787" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "mverbs", "55verbs" ], "text" : "mirar", "translate" : "to look" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2788" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "mverbs", "55verbs" ], "text" : "mirarse", "translate" : "to look at oneself" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2789" }, "text" : "mojarse", "translate" : "to get oneself wet", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "mverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e278a" }, "text" : "montar", "translate" : "to climb", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "mverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e278b" }, "text" : "morder", "translate" : "to bite", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "mverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e278c" }, "text" : "morir", "translate" : "to die", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "mverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e278d" }, "text" : "mostrar", "translate" : "to show", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "mverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e278e" }, "text" : "mover", "translate" : "to move", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "mverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e278f" }, "text" : "mudarse", "translate" : "to move oneself", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "mverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2790" }, "text" : "nacer", "translate" : "to be born", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "nverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2792" }, "text" : "navegar", "translate" : "to navigate", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "nverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2793" }, "text" : "necesitar", "translate" : "to need", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "nverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2794" }, "text" : "negar", "translate" : "to deny-to refuse", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "nverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2795" }, "text" : "obedecer", "translate" : "to obey", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "overbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2796" }, "text" : "obsevar", "translate" : "to observe", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "overbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2797" }, "text" : "obtener", "translate" : "to obtain", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "overbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2798" }, "text" : "ocultarse", "translate" : "to hide oneself", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "overbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2799" }, "text" : "ocupar", "translate" : "to occupy-to be busy", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "overbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e279a" }, "text" : "ofrecer", "translate" : "to offer", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "overbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e279b" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "overbs", "55verbs" ], "text" : "oír", "translate" : "to hear" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e279c" }, "text" : "oler", "translate" : "to smell-to sniff", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "overbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e279d" }, "text" : "olvidar", "translate" : "to forget", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "overbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e279e" }, "text" : "oponer", "translate" : "to oppose", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "overbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e279f" }, "text" : "ordenar", "translate" : "to order-to command", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "overbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27a0" }, "text" : "organizar", "translate" : "to organise", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "overbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27a1" }, "text" : "osar", "translate" : "to dare-to venture", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "overbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27a2" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "pverbs", "55verbs" ], "text" : "pagar", "translate" : "to pay" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27a3" }, "text" : "parar", "translate" : "to stop", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "pverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27a4" }, "text" : "pararse", "translate" : "to stop oneself", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "pverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27a5" }, "text" : "parecer", "translate" : "to resemble", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "pverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27a6" }, "text" : "parecerse", "translate" : "to resemble each other-to look like", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "pverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27a9" }, "text" : "pedir", "translate" : "to ask for-to request", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "pverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27ab" }, "text" : "peinarse", "translate" : "to comb one's hair", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "pverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27ac" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "pverbs", "55verbs" ], "text" : "pensar", "translate" : "to think" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27ad" }, "text" : "percibir", "translate" : "to perceive", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "pverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27ae" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "pverbs", "55verbs" ], "text" : "perder", "translate" : "to lose" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27af" }, "text" : "perdonar", "translate" : "to pardon-to forgive-to excuse", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "pverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27b0" }, "text" : "permitir", "translate" : "to excuse", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "pverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27b1" }, "text" : "pertenecer", "translate" : "to pertain-to belong", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "pverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27b2" }, "text" : "pintar", "translate" : "to paint", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "pverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27b3" }, "text" : "pintarse", "translate" : "to make up (paint oneself)", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "pverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27b5" }, "text" : "placer", "translate" : "to please", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "pverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27b7" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "pverbs", "55verbs" ], "text" : "poder", "translate" : "to be able-can" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27b8" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "pverbs", "55verbs" ], "text" : "poner", "translate" : "to put-to place-to turn on(TV radio)" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27b9" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "pverbs", "55verbs" ], "text" : "ponerse", "translate" : "to put on-to become" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27ba" }, "text" : "poseer", "translate" : "to posses", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "pverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27bb" }, "text" : "practicar", "translate" : "to practice", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "pverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27bc" }, "text" : "predecir", "translate" : "to predict", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "pverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27bd" }, "text" : "predicar", "translate" : "to preach", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "pverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27bf" }, "text" : "preguntar.to ask", "translate" : "h9ocPPRC2nBdip5EY", "list_id" : "501verbs", "tags" : [ "pverbs", null ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27c0" }, "text" : "preocuparse", "translate" : "to worry oneself", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "pverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27c1" }, "text" : "preparar", "translate" : "to prepare", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "pverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27c2" }, "text" : "prepararse", "translate" : "to prepare oneself-to get ready", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "pverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27c3" }, "text" : "presentar", "translate" : "to present", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "pverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27c5" }, "text" : "principiar", "translate" : "to begin", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "pverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27c7" }, "text" : "probarse", "translate" : "to try on", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "pverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27c9" }, "text" : "producir", "translate" : "to produce", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "pverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27ca" }, "text" : "prohibir", "translate" : "to prohibit", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "pverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27cb" }, "text" : "pronunciar", "translate" : "to pronounce", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "pverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27cd" }, "text" : "pudrir", "translate" : "to rot", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "pverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27ce" }, "text" : "pulir", "translate" : "to polish", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "pverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27cf" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "qverbs", "55verbs" ], "text" : "quedarse", "translate" : "to remain-to stay" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27d0" }, "text" : "quemar", "translate" : "to burn", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "qverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27d1" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "qverbs", "55verbs" ], "text" : "querer", "translate" : "to want-to wish" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27d2" }, "text" : "quitarse", "translate" : "to take off(clothes)-to remove oneself", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "qverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27d3" }, "text" : "raer", "translate" : "to file-to scrape", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "rverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27d4" }, "text" : "realizar", "translate" : "to realise-to fulfill", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "rverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27d5" }, "text" : "recibir", "translate" : "to receive", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "rverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27d6" }, "text" : "recoger", "translate" : "to pick up-to collect", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "rverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27d7" }, "text" : "recomendar", "translate" : "to recommend", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "rverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27d8" }, "text" : "reconocer", "translate" : "to recognise", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "rverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27d9" }, "text" : "recordar", "translate" : "to record", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "rverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27da" }, "text" : "reducir", "translate" : "to reduce", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "rverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27db" }, "text" : "referir", "translate" : "to refer", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "rverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27dc" }, "text" : "regalar", "translate" : "to make a present of-to give a gift", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "rverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27de" }, "text" : "regresar", "translate" : "to return", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "rverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27df" }, "text" : "réir", "translate" : "to laugh", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "rverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27e0" }, "text" : "réirse", "translate" : "to laugh", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "rverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27e2" }, "text" : "remitir", "translate" : "to remit-to forward", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "rverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27e4" }, "text" : "reparar", "translate" : "to repair", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "rverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27e5" }, "text" : "repartir", "translate" : "to distribute WHAT split", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "rverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27e6" }, "text" : "repetir", "translate" : "to repeat", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "rverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27e7" }, "text" : "resolver", "translate" : "to resolve", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "rverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27e8" }, "text" : "responder", "translate" : "to answer", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "rverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27e9" }, "text" : "retirar", "translate" : "to retire", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "rverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27ea" }, "text" : "retrasar", "translate" : "to delay", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "rverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27ec" }, "text" : "revocar", "translate" : "to revoke", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "rverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27ed" }, "text" : "revolver", "translate" : "to revolve-to turn around", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "rverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27ee" }, "text" : "robar", "translate" : "to steal", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "rverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27f0" }, "text" : "rogar", "translate" : "to ask", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "rverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27f2" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "sverbs", "55verbs" ], "text" : "saber", "translate" : "to know" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27f3" }, "text" : "sacar", "translate" : "to take out", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "sverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27f4" }, "text" : "sacudir", "translate" : "to WHAT", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "sverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27f5" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "sverbs", "55verbs" ], "text" : "salir", "translate" : "to go out-to leave" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27f6" }, "text" : "saltar", "translate" : "to jump", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "sverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27f7" }, "text" : "saludar", "translate" : "to WHAT", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "sverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27f8" }, "text" : "satisfacer", "translate" : "to satisfy", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "sverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27f9" }, "text" : "secar", "translate" : "to dry", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "sverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27fa" }, "text" : "secarse", "translate" : "to dry oneself", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "sverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27fb" }, "text" : "seguir", "translate" : "to keep on-to continue", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "sverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27fc" }, "text" : "señalar", "translate" : "to signal", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "sverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27fd" }, "text" : "sentarse", "translate" : "to sit down", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "sverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27fe" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "sverbs", "55verbs" ], "text" : "sentir", "translate" : "to feel sorry-to regret" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e27ff" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "sverbs", "55verbs" ], "text" : "sentirse", "translate" : "to feel(well-ill)" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2800" }, "text" : "separar", "translate" : "to separate", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "sverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2801" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "sverbs", "55verbs" ], "text" : "ser", "translate" : "to be" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2802" }, "text" : "servir", "translate" : "to serve", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "sverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2803" }, "text" : "significar", "translate" : "to mean-to signify", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "sverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2804" }, "text" : "socorrer", "translate" : "to help-to aid", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "sverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2805" }, "text" : "sofocar", "translate" : "to suffocate", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "sverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2806" }, "text" : "sollozar", "translate" : "to sob", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "sverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2807" }, "text" : "someter", "translate" : "to WHAT", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "sverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2808" }, "text" : "sonar", "translate" : "to ring", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "sverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2809" }, "text" : "soñar", "translate" : "to dream", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "sverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e280a" }, "text" : "sonreír", "translate" : "to smile", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "sverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e280c" }, "text" : "sorprender", "translate" : "to surprise", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "sverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e280d" }, "text" : "sospechar", "translate" : "to suspect", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "sverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e280e" }, "text" : "sostener", "translate" : "to sustain", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "sverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2810" }, "text" : "subrayar", "translate" : "to underline-to emphasize", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "sverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2811" }, "text" : "subscribir", "translate" : "to subscribe", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "sverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2812" }, "text" : "sufrir", "translate" : "to suffer", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "sverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2813" }, "text" : "sugerir", "translate" : "to suggest", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "sverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2814" }, "text" : "sumergir", "translate" : "to submerge", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "sverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2816" }, "text" : "suprimir", "translate" : "to delete-to abolish", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "sverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2817" }, "text" : "surgir", "translate" : "to surge", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "sverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2818" }, "text" : "suspirar", "translate" : "to sigh", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "sverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e281a" }, "text" : "telefonear", "translate" : "to telephone", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "tverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e281b" }, "text" : "telegrafiar", "translate" : "to telegraph", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "tverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e281c" }, "text" : "temblar", "translate" : "to tremble", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "tverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e281d" }, "text" : "temer", "translate" : "to fear", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "tverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e281e" }, "text" : "tender", "translate" : "to offer-to extend", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "tverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e281f" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "tverbs", "55verbs" ], "text" : "tener", "translate" : "to have" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2820" }, "text" : "tentar", "translate" : "to examine by touch", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "tverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2821" }, "text" : "terminar", "translate" : "to terminate", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "tverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2822" }, "text" : "tirar", "translate" : "to pull", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "tverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2824" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "tverbs", "55verbs" ], "text" : "tomar", "translate" : "to take" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2825" }, "text" : "tostar", "translate" : "to toast", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "tverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2826" }, "text" : "trabajar", "translate" : "to work", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "tverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2827" }, "text" : "traducir", "translate" : "to translate", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "tverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2828" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "tverbs", "55verbs" ], "text" : "traer", "translate" : "to bring" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2829" }, "text" : "tratar", "translate" : "to try", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "tverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e282a" }, "text" : "tropezar", "translate" : "to stumble-to blunder", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "tverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e282b" }, "text" : "unir", "translate" : "to unite", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "uverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e282c" }, "text" : "usar", "translate" : "to use-to employ-to wear", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "uverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e282d" }, "text" : "utilizar", "translate" : "to utilise", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "uverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e282e" }, "text" : "vaciar", "translate" : "to empty", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "vverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e282f" }, "text" : "valer", "translate" : "to cost-to be worth", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "vverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2830" }, "text" : "velar", "translate" : "to stay awake-to guard", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "vverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2831" }, "text" : "vencer", "translate" : "to conquer-to defeat", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "vverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2832" }, "text" : "vender", "translate" : "to sell", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "vverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2834" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "vverbs", "55verbs" ], "text" : "ver", "translate" : "to see" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2835" }, "text" : "verificar", "translate" : "to verify", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "vverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2836" }, "text" : "vestirse", "translate" : "to dress oneself", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "vverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2837" }, "text" : "viajar", "translate" : "to travel", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "vverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2838" }, "text" : "vigilar", "translate" : "to watch over-to guard-to look out for", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "vverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2839" }, "text" : "visitar", "translate" : "to visit", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "vverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e283a" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "vverbs", "55verbs" ], "text" : "vivir", "translate" : "to live" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e283b" }, "text" : "volar", "translate" : "to fly", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "vverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e283c" }, "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "vverbs", "55verbs" ], "text" : "volver", "translate" : "to return" }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e283d" }, "text" : "votar", "translate" : "to vote", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "vverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e283e" }, "text" : "yacer", "translate" : "to lie down", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "yverbs" ] }
+{ "_id" : { "$oid" : "5470de2e04a55c6c807e2840" }, "text" : "zurcir", "translate" : "to darn-to mend", "list_id" : "h9ocPPRC2nBdip5EY", "tags" : [ "501verbs", "zverbs" ] }
